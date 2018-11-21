@@ -6,7 +6,7 @@ address: "P. Manuel de Lardizabal, 5"      # full street address of workshop (e.
 country: "ES"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "EN"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "43.305667,-2.009502"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "December 5,10,13,19 and 20, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "December 5,10,13,19 and 20th, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00h - 13:00h (separated morning sessions)"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2018-12-05      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2018-12-20        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
