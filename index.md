@@ -123,20 +123,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
   Modify the block below if there are any special requirements.
 {% endcomment %}
-<p id="requirements">
-  <strong>Requirements:</strong> Participants must bring a laptop with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges
-  on. They should have a few specific software packages installed (listed
-  <a href="#setup">below</a>). They are also required to abide by
-  {% if page.carpentry == "swc" %}
-  Software Carpentry's
-  {% elsif page.carpentry == "dc" %}
-  Data Carpentry's
-  {% elsif page.carpentry == "lc" %}
-  Library Carpentry's
-  {% endif %}
-  <a href="{{site.swc_site}}/conduct.html">Code of Conduct</a>.
-</p>
 
 {% comment %}
   ACCESSIBILITY
@@ -161,6 +147,21 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   get in touch (using contact details below) and we will
   attempt to provide them.
 </p>
+
+<div class="alert alert-warning">
+  <strong>Requirements:</strong> Participants are <strong>strongly encouraged</strong> to bring their own laptop with a
+  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) with a few specific software packages installed (listed
+  <a href="#setup">below</a>). In case you can't bring one, the Computer Room computers will be setup and available for the workshop.
+  <br>  Participants are also required to abide by
+  {% if page.carpentry == "swc" %}
+  Software Carpentry's
+  {% elsif page.carpentry == "dc" %}
+  Data Carpentry's
+  {% elsif page.carpentry == "lc" %}
+  Library Carpentry's
+  {% endif %}
+  <a href="{{site.swc_site}}/conduct.html">Code of Conduct</a>.
+</div>
 
 {% comment %}
   CONTACT EMAIL ADDRESS
