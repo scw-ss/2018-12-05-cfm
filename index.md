@@ -50,6 +50,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <p><small>
  <ul>
   <li><a href="#general">General Information</a></li>
+  <li><a href="#registration">Registration</a></li>
   <li><a href="#schedule">Schedule</a></li>
   <li><a href="#syllabus">Syllabus</a></li>
   <li><a href="#setup">Software Setup Instructions</a></li>
@@ -190,6 +191,13 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <hr/>
 
+{% comment %} 
+ REGITRATION 
+{% endcomment %}
+<h2 id="registration">Registration</h2>
+<p>Registration will open soon.</p>
+
+<hr/>
 {% comment %} 
  SURVEYS - DO NOT EDIT SURVEY LINKS 
 {% endcomment %}
