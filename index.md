@@ -195,7 +195,49 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
  REGITRATION 
 {% endcomment %}
 <h2 id="registration">Registration</h2>
-<p>Registration will open soon.</p>
+<p>Assistance is limited to 20 people, and CFM/DIPC staff will have priority. Appart from this seats will be assigned in a first-come fist-served basis.</p>
+<div style="display: block;" class="classictemplate template">
+<style type="text/css">
+  #groupsio_embed_signup input {border:1px solid #999; -webkit-appearance:none;}
+  #groupsio_embed_signup label {display:block; font-size:16px; padding-bottom:10px; font-weight:bold;}
+  #groupsio_embed_signup .email {display:block; padding:8px 0; margin:0 4% 10px 0; text-indent:5px; width:58%; min-width:130px;}
+  #groupsio_embed_signup {
+    background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;
+  }
+  #groupsio_embed_signup .button {
+      width:25%; margin:0 0 10px 0; min-width:90px;
+      background-image: linear-gradient(to bottom,#337ab7 0,#265a88 100%);
+      background-repeat: repeat-x;
+      border-color: #245580;
+      text-shadow: 0 -1px 0 rgba(0,0,0,.2);
+      box-shadow: inset 0 1px 0 rgba(255,255,255,.15),0 1px 1px rgba(0,0,0,.075);
+      padding: 5px 10px;
+      font-size: 12px;
+      line-height: 1.5;
+      border-radius: 3px;
+      color: #fff;
+      background-color: #337ab7;
+      display: inline-block;
+      margin-bottom: 0;
+      font-weight: 400;
+      text-align: center;
+      white-space: nowrap;
+      vertical-align: middle;
+    }
+</style>
+<div id="groupsio_embed_signup">
+<!--
+<form action="https://groups.io/g/lund-SC-workshop/signup?u=2154170982873630030" method="post" id="groupsio-embedded-subscribe-form" name="groupsio-embedded-subscribe-form" target="_blank">
+-->
+<form target="_blank" action="https://goo.gl/forms/lKfp7EXhUjcFppJ02" method="GET">
+    <div id="groupsio_embed_signup_scroll">
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input name="b_2154170982873630030" tabindex="-1" value="" type="text"></div>
+    <div id="templatearchives"></div>
+    <input value="Register here" name="subscribe" id="groupsio-embedded-subscribe" class="button" type="submit"/>
+  </div>
+</form>
+</div>
+</div>
 
 <hr/>
 {% comment %} 
