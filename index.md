@@ -215,6 +215,7 @@ Registration is  <strong>closed</strong> as of December the 29th. All available 
 <p><a href="{{ site.lc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
 {% endif %}
 
+<p><a href="https://goo.gl/forms/aaYGSssRgaOvo7Ic2"><b>CFM Internal Survey</b></a></p>
 <hr/>
 
 
